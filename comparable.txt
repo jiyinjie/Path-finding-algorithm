@@ -1,0 +1,22 @@
+Algorithm	Start	   Destination	  # of Nodes	Path length
+Djikstra        Austin	   Muleshoe	     71		452
+Prim					    N/A		501
+A* dist					     11		452
+A* halfass		   		     40		452
+A* zip			   		     65		452
+A* randombs		   		     29		452
+A* randomlies		  	 	     36		908
+
+Djikstra	Laredo	   Haskell	     67		482
+A* dist					     14		482
+A* halfass				     27		482
+A* zip					     47		482
+A* randombs				     29		482
+A* randomlies				     48		501
+
+Djikstra	Dumas	   Corsicana	     68		467
+A* dist					     10		467
+A* halfass				     25		467
+A* zip 					     34		467
+A* randombs				     22		467
+A* randomlies				     18		508	
